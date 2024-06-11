@@ -84,6 +84,6 @@ console.log('Server listening');
 });   
 
 app.get("/", (req,res) =>{
-res.send("Welddcoome");
+res.send("Welcome to MyCRUD API, you can test this one with https://node-api-3hh5.onrender.com/books");
 })
 
